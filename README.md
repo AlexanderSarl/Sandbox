@@ -29,7 +29,7 @@
 
 **This part of the** text ***will be*** bold.
 
-**'Логотип Markdown'**
+**~Логотип Markdown~**
 
 ![Логотип Markdown](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png)
 
