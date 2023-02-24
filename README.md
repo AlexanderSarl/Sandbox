@@ -35,3 +35,6 @@
 
 ![Логотип Markdown](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png)
 
+|Столбец 1|СТолбец 2|Столбец 3|
+|:-|:-:|-:|
+
