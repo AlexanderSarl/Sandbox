@@ -25,4 +25,4 @@
  2. Второй элемент списка
 
 
-![Альтернативный текст](/C:/Users/678687/Desktop/shutterstock_530908597.original.jpg)
+![Альтернативный текст](https://yandex.ru/images/search?from=tabbar&text=фото&pos=3&img_url=http%3A%2F%2Fco13.nevseoboi.com.ua%2F15%2F14682%2F1377805720-yaguari-ch1----9.jpg&rpt=simage&lr=11080)
