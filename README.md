@@ -25,4 +25,7 @@
  2. Второй элемент списка
 
 
-<strong>This part of the text</strong> will be bold.
+**This part of the text** will be bold.
+**This part of the text** ***will be*** bold.
+
+
