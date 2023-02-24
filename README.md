@@ -31,5 +31,7 @@
 
 **~Логотип Markdown~**
 
+***`Логотип Markdown`***
+
 ![Логотип Markdown](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png)
 
