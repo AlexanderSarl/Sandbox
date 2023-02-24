@@ -26,6 +26,6 @@
 
 
 **This part of the text** will be bold.
-**This part of the text** ***will be*** bold.
-
+**This part of the** text ***will be*** bold.
+![Логотип Markdown](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png)
 
