@@ -29,7 +29,7 @@
 
 **This part of the** text ***will be*** bold.
 
-**~Логотип Markdown~**
+**~Лишний текст~**
 
 ***`Логотип Markdown`***
 
